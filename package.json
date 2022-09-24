@@ -1,9 +1,10 @@
 {
-  "name": "easy_drag",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/IcyFanta/easy_drag.git",
-  "author": "zhangjingzhuo <zhangjingzhuo@dreame.tech>",
+  "name": "react-easydrag",
+  "version": "0.0.1",
+  "description": "a responsive and easy-used draggable component based on React",
+  "main": "lib/index.js",
+  "repository": "https://github.com/IcyFanta/react-easydrag.git",
+  "author": "IcyFanta",
   "license": "MIT",
   "dependencies": {
     "react-rnd": "^10.3.7",
