@@ -1,0 +1,8 @@
+{
+  "name": "react-easydrag",
+  "version": "0.0.1",
+  "description": "a responsive and easy-used draggable component based on React",
+  "main": "index.js",
+  "author": "IcyFanta",
+  "license": "MIT"
+}

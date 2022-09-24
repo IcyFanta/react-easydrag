@@ -1,0 +1,20 @@
+{
+  "name": "easy_drag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IcyFanta/easy_drag.git",
+  "author": "zhangjingzhuo <zhangjingzhuo@dreame.tech>",
+  "license": "MIT",
+  "dependencies": {
+    "react-rnd": "^10.3.7",
+    "rollup-plugin-postcss": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "@babel/preset-react": "^7.18.6",
+    "@emotion/babel-preset-css-prop": "^11.10.0",
+    "rollup": "^2.79.1",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
