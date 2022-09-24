@@ -1,14 +1,13 @@
 {
   "name": "react-easydrag",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a responsive and easy-used draggable component based on React",
   "main": "lib/index.js",
   "repository": "https://github.com/IcyFanta/react-easydrag.git",
   "author": "IcyFanta",
   "license": "MIT",
   "dependencies": {
-    "react-rnd": "^10.3.7",
-    "rollup-plugin-postcss": "^4.0.2"
+    "react-rnd": "^10.3.7"
   },
   "devDependencies": {
     "@babel/core": "^7.19.1",
